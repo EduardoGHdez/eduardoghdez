@@ -5,3 +5,13 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {{ content }}
+
+<hr/>
+<h3><b>Other posts: </b></h3>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
