@@ -8,4 +8,5 @@ layout: home
 </figure>
 
 <h1> Eduardo's Blog 🧑🏻‍💻 </h1>
-<b> Here you'll find some posts about programming and software engineering. 💾</b>
+<b>I like to use this space like a log of my personal experiences as software engineer. I write
+sometimes in spanish and others in english, so aqui se espaglishea 🇲🇽</b>
